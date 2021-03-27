@@ -13,5 +13,5 @@ This assignment took me
 
 </p>
 
-_Patrik Bolander_
+_Patrik Bolander_<br>
 _pbol970_
