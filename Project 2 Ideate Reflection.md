@@ -13,6 +13,6 @@ We also had 3 group meetings, which the first one was about who would take what 
 Besides figuring out how Google Appsheet worked, everything else was straight forward. 
 
 
-_Patrik Bolander_
-_pbol970
+_Patrik Bolander_<br>
+_pbol970_
 </p>
