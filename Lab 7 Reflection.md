@@ -1,4 +1,4 @@
-# Lab 6 reflection
+# Lab 7 reflection
 
   
 I found the first excerise straight forward because it was just java. it was nice how it was seperated into their own functions. 
