@@ -8,5 +8,5 @@
   Other than that, I did struggle passing the player object around and having issues with passing by value and passing by reference.   
 </p>
 
-_Patrik Bolander_
+_Patrik Bolander_ <br>
 _pbol970_
