@@ -1,0 +1,33 @@
+{
+	"name": "snake_lader_Positions",
+	"boardPosition": [
+		{
+			"position": 3,
+			"moveTo": 15
+		},
+		{
+			"position": 8,
+			"moveTo": 2
+		},
+		{
+			"position": 11,
+			"moveTo": 9
+		},
+		{
+			"position": 12,
+			"moveTo": 20
+		},
+		{
+			"position": 30,
+			"moveTo": 10
+		},
+		{
+			"position": 45,
+			"moveTo": 55
+		},
+		{
+			"position": 60,
+			"moveTo": 75
+		}
+	]
+}
