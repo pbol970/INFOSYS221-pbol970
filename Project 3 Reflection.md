@@ -5,7 +5,7 @@ I found this project assignment straight forward, we all chose 1 section of the 
   
 I personally found using microsoft powerapps a lot better than google appsheets because it was more customisable and easier to make the app according to the drawings. I enjoyed using powerapps as its similar to other tools iv used such as adobe XD and easier to get the idea across.
 
-we also had spent some time together as a group discussing any potential problems with making the final version of our app and came to conclusion that we didnt have much considerations to think about.
+we also had spent some time together as a group discussing any potential problems with making the final version of our app and came up with a few considerations such as integrating our app with the existing bookstore. 
 </p>
 
 _Patrik Bolander_ <br>
