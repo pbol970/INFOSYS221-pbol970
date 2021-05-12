@@ -8,5 +8,5 @@ I personally found using microsoft powerapps a lot better than google appsheets 
 we also had spent some time together as a group discussing any potential problems with making the final version of our app and came to conclusion that we didnt have much considerations to think about.
 </p>
 
-_Patrik Bolander_
+_Patrik Bolander_ <br>
 _pbol970_
